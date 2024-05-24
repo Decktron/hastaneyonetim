@@ -1,0 +1,28 @@
+yazdır
+<i class="fa-solid fa-print"></i>
+logout
+<i class="fa-solid fa-arrow-right-from-bracket"></i>
+bell
+<i class="fa-solid fa-bell"></i>
+circle user
+<i class="fa-solid fa-circle-user"></i>
+onaylaam el
+<i class="fa-solid fa-thumbs-up"></i>
+red et
+<i class="fa-solid fa-thumbs-down"></i>
+users
+<i class="fa-solid fa-users"></i>
+user çıkart
+<i class="fa-solid fa-user-minus"></i>
+soru
+<i class="fa-solid fa-question"></i>
+open door
+<i class="fa-solid fa-door-open"></i>
+user add
+<i class="fa-solid fa-user-plus"></i>
+user düzelneem
+<i class="fa-solid fa-user-pen"></i>
+sil
+<i class="fa-solid fa-trash-can"></i>
+arama
+<i class="fa-brands fa-sistrix"></i>

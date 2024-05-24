@@ -1,0 +1,7 @@
+[
+    { "username": "doktor", "password": "doktor123", "role": "doctor" },
+    { "username": "kayitci", "password": "kayitci123", "role": "registrar" },
+    { "username": "xray", "password": "xray123", "role": "xray" },
+    { "username": "emar", "password": "emar123", "role": "emar" },
+    { "username": "yetki", "password": "123", "role": "yetki" },
+]
