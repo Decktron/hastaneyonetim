@@ -26,3 +26,5 @@ sil
 <i class="fa-solid fa-trash-can"></i>
 arama
 <i class="fa-brands fa-sistrix"></i>
+
+https://docs.fontawesome.com/web/style/animate
